@@ -1,0 +1,177 @@
+body{
+    text-align: center;
+   
+    background-image: url(haikeinote.jpg);
+    background-size: cover;
+   }
+
+.midasi{
+    width: 40%;
+}
+
+.midamidasi{
+    position: relative;
+}
+
+.midamidasi img{
+    top: 15px;
+}
+
+.midamidasi h1{
+    position:absolute;
+    padding: 0px 0 0 500px;
+    font-size: 50px;
+    z-index: 10;
+}
+
+.name {
+    display: flex;
+    flex-direction: column;
+}
+
+.namename{
+    float: right;
+}
+
+.name3 {
+    display: flex;
+    flex-direction: column;
+}
+
+.name{
+    position: relative;
+}
+
+.name h2{
+    position:absolute;
+    padding: 0px 0 0 260px;
+    font-size: 40px;
+}
+
+.name3 {
+    position: relative;
+    margin-top: 40px;
+}
+
+.name3 p{
+    position:absolute;
+    padding: 40px 0 0 140px;
+    font-size: 35px;
+}
+
+.birthday {
+    position: relative;
+}
+
+.birthday p {
+    position:absolute;
+    padding: 40px 0 0 140px;
+    font-size: 35px;
+}
+
+.irairabu{
+    position: relative;
+}
+
+.text3{
+    position:absolute;
+    padding:85px 0 0 180px;
+    font-size: 25px;
+    z-index: 10;
+}
+
+.irairabu img{
+    
+    float: left;
+    margin:10px 120px 0 50px;
+}
+
+.text1text2{
+    float: left;
+}
+
+.favorite{
+    position: relative;
+}
+
+.favorite h2{
+    position:absolute;
+    padding:30px 0 0 160px;
+    font-size: 30px;
+}
+
+.favorite p{
+    position:absolute;
+    padding:90px 0 0 120px;
+    font-size: 20px;
+}
+
+.able{
+    position: relative;
+}
+
+.able h2{
+    position:absolute;
+    padding:30px 0 0 700px;
+    font-size: 30px;
+}
+
+.able p{
+    position:absolute;
+    padding:110px 0 0 650px;
+    font-size: 20px;
+}
+
+
+.daze img{
+    float:left;
+    width: 40%;
+    margin:10px 50px 0 50px;
+}
+
+
+
+
+
+
+.text3text4{
+    float: left;
+}
+
+.favorite2{
+    position: relative;
+}
+
+.favorite2 h2{
+    position:absolute;
+    padding:30px 0 0 140px;
+    font-size: 30px;
+}
+
+.favorite2 p{
+    position:absolute;
+    padding:90px 0 0 150px;
+    font-size: 20px;
+}
+
+.game{
+    position: relative;
+}
+
+.game h2{
+    position:absolute;
+    padding:30px 0 0 600px;
+    font-size: 30px;
+}
+
+.game p{
+    position:absolute;
+    padding:110px 0 0 650px;
+    font-size: 20px;
+}
+
+.daze2 img{
+    float:left;
+    width: 40%;
+    margin:10px 50px 0 50px;
+}
